@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{5FB6425D-36D6-4EE8-9634-570FAE5CD4A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XFTest/Services/BaseWebService.cs">
+    <Files>
+      <File FileName="XFTest.Android/MainActivity.cs" Line="24" Column="5" />
+      <File FileName="XFTest/ViewModels/CleaningListViewModel.cs" Line="230" Column="1" />
+      <File FileName="XFTest.iOS/AppDelegate.cs" />
+      <File FileName="XFTest/Services/IServices/ICarWashListService.cs" />
+      <File FileName="XFTest/Services/BaseWebService.cs" Line="37" Column="49" />
+      <File FileName="XFTest.iOS/Main.cs" Line="21" Column="1" />
+      <File FileName="XFTest.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="../../../../../.nuget/packages/xam.plugin.deviceinfo/4.1.1/readme.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XFTest" expanded="True">
+            <Node name="XFTest" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="BaseWebService.cs" selected="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="XFTest.Android" expanded="True" />
+            <Node name="XFTest.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>XFTestAPI/XFTestAPI.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.XFTest.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.my_devicej_new" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.XFTest.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BC548282-A87B-4FF0-8F48-15994D42A575" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Catchpoint exceptionName="System.Exception" includeSubclasses="True" />
+      <Breakpoint file="/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/Services/BaseWebService.cs" relfile="XFTest/Services/BaseWebService.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,16 @@
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/bin/Debug/netstandard2.1/XFTest.deps.json
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/bin/Debug/netstandard2.1/XFTest.dll
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/bin/Debug/netstandard2.1/XFTest.pdb
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.1/XFTest.Comman.AppResources.resources
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.1/XFTest.csproj.GenerateResource.cache
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.1/App.xaml.g.cs
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.1/Views/Calendar.xaml.g.cs
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.1/Views/CleaningList.xaml.g.cs
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.1/Views/CleaningListDataTemplate.xaml.g.cs
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.1/Views/MainPage.xaml.g.cs
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.1/XFTest.AssemblyInfoInputs.cache
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.1/XFTest.AssemblyInfo.cs
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.1/XamlC.stamp
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.1/XFTest.dll
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.1/XFTest.pdb
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.1/XFTest.csprojAssemblyReference.cache

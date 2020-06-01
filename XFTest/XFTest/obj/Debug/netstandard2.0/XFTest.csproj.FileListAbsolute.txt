@@ -1,0 +1,14 @@
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/bin/Debug/netstandard2.0/XFTest.deps.json
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/bin/Debug/netstandard2.0/XFTest.dll
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/bin/Debug/netstandard2.0/XFTest.pdb
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.0/XFTest.csprojAssemblyReference.cache
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.0/Views/Calendar.xaml.g.cs
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.0/Views/CleaningList.xaml.g.cs
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.0/Views/CleaningListDataTemplate.xaml.g.cs
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.0/XFTest.AssemblyInfoInputs.cache
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.0/XFTest.AssemblyInfo.cs
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.0/XFTest.dll
+/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/Debug/netstandard2.0/XFTest.pdb

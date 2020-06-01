@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest.iOS/XFTest.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest.iOS/XFTest.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest.iOS/XFTest.iOS.csproj",
+        "projectName": "XFTest.iOS",
+        "projectPath": "/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest.iOS/XFTest.iOS.csproj",
+        "packagesPath": "/Users/nilesh.jadhav/.nuget/packages/",
+        "outputPath": "/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/nilesh.jadhav/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/XFTest.csproj": {
+                "projectPath": "/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/XFTest.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Prism.DryIoc.Forms": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            },
+            "Prism.Plugin.Popups": {
+              "target": "Package",
+              "version": "[7.2.0.1046, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.FFImageLoading": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Svg": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Svg.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Transformations": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.6.0.772, )"
+            },
+            "Xamarin.Forms.PancakeView": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "Xamarin.Forms.Visual.Material": {
+              "target": "Package",
+              "version": "[4.6.0.772, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/XFTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/XFTest.csproj",
+        "projectName": "XFTest",
+        "projectPath": "/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/XFTest.csproj",
+        "packagesPath": "/Users/nilesh.jadhav/.nuget/packages/",
+        "outputPath": "/Users/nilesh.jadhav/Desktop/Nilesh/Xamarin Form Test/XamarinFormsTest/XFTest/XFTest/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/nilesh.jadhav/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Acr.UserDialogs": {
+              "target": "Package",
+              "version": "[7.1.0.442, )"
+            },
+            "FubarCoder.RestSharp.Portable.HttpClient": {
+              "target": "Package",
+              "version": "[4.0.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Prism.DryIoc.Forms": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            },
+            "Prism.Plugin.Popups": {
+              "target": "Package",
+              "version": "[7.2.0.1046, )"
+            },
+            "Xam.Plugin.Connectivity": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Xam.Plugin.DeviceInfo": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.FFImageLoading": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Svg.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Transformations": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.6.0.772, )"
+            },
+            "Xamarin.Forms.PancakeView": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "Xamarin.Forms.Visual.Material": {
+              "target": "Package",
+              "version": "[4.6.0.772, )"
+            },
+            "modernhttpclient": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.6.292, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
