@@ -16,7 +16,7 @@
     <PackageReference Include="Xamarin.Forms.PancakeView" Version="1.4.2" />
     <PackageReference Include="Xamarin.Forms.Visual.Material" Version="4.6.0.772" />
     <PackageReference Include="sqlite-net-pcl" Version="1.6.292" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="FubarCoder.RestSharp.Portable.HttpClient" Version="4.0.8" />
     <PackageReference Include="modernhttpclient" Version="2.4.2" />
     <PackageReference Include="Xam.Plugin.Connectivity" Version="3.2.0" />
